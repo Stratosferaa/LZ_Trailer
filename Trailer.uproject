@@ -64,6 +64,11 @@
 		{
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
+		},
+		{
+			"Name": "Cinematographer",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f69528054a8448a094bcd8692b2effec"
 		}
 	]
 }
